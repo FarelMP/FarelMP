@@ -1,5 +1,5 @@
 ## About me
-# Gostfarel Garasso Sakti Muchibbi Putra
+Gostfarel Garasso Sakti Muchibbi Putra
 - Bachelor of Applied Engineering Student, Industrial Electrical Engineering
 
 <!--
