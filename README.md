@@ -28,7 +28,8 @@
 
 </p>
 
-<div align="center">
+<div >
+<h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
 </div>
 
