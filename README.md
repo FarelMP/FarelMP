@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<h2>Gostfarel Garasso Sakti Muchibbi Putra</h2>
+<h3>Gostfarel Garasso Sakti Muchibbi Putra</h3>
 <h3>Bachelor of Applied Engineering Student, Industrial Electrical Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
