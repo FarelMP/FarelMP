@@ -20,7 +20,7 @@
     <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/c/c5/ST_logo.png?20211105095744" alt="STMicroelectronics" width="40" height="40"/>
 </a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2023/09/Autodesk-Emblem.png" 
+    <img src="https://logotaglines.com/wp-content/uploads/2023/02/Autodesk-Logo-Tagline-Slogan-Founder.jpg" 
          alt="Autodesk" height="40" width="80"/>
 </a>
 
