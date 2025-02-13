@@ -11,9 +11,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.bO5-OQ_twHgYw4hQaWCwpAHaEu?rs=1&pid=ImgDetMain" alt="STM32" width="40" height="40"/>
+<a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer">
+    <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/c/c5/ST_logo.png?20211105095744" alt="STMicroelectronics" width="40" height="40"/>
 </a>
+
 
 </p>
 
