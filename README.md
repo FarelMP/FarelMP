@@ -19,14 +19,11 @@
 <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer">
     <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/c/c5/ST_logo.png?20211105095744" alt="STMicroelectronics" width="40" height="40"/>
 </a>
-<a href="https://www.autodesk.com/products/eagle/overview" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/821541421043879936/oa_lDIcT_400x400.jpg" 
-         alt="Autodesk Eagle" height="40" width="40"/>
+<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer">
+    <img src="https://brand.autodesk.com/app/uploads/2021/04/alternate-logo-1.svg" 
+         alt="Autodesk" height="40" width="80"/>
 </a>
-<a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/736x/13/b4/d2/13b4d2b9eb76a2f4793568e9594dbf90.jpg" 
-         alt="Autodesk Fusion 360" height="40" width="50"/>
-</a>
+
 
 
 </p>
