@@ -23,12 +23,6 @@
 
 </p>
 
-Bachelor of Applied Engineering Student, Industrial Electrical Engineering  
-Attracted to:  
-- STM32 Microcontroller
-- Embedded System
-- Power Electronics  
-
 <!--
 **FarelMP/FarelMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
