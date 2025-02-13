@@ -27,7 +27,13 @@
 
 
 </p>
-
+##
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
+</div>
+##
+<img src="https://raw.githubusercontent.com/FarelMP/FarelMP/output/snake.svg" alt="Snake animation" />
+##
 <!--
 **FarelMP/FarelMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
