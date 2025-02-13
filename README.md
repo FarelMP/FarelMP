@@ -21,7 +21,7 @@
 </a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer">
     <img src="https://logotaglines.com/wp-content/uploads/2023/02/Autodesk-Logo-Tagline-Slogan-Founder.jpg" 
-         alt="Autodesk" height="40" width="80"/>
+         alt="Autodesk" height="40" width="50"/>
 </a>
 
 
