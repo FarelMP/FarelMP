@@ -25,7 +25,7 @@
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/736x/13/b4/d2/13b4d2b9eb76a2f4793568e9594dbf90.jpg" 
-         alt="Autodesk Fusion 360" height="40" width="40"/>
+         alt="Autodesk Fusion 360" height="40" width="50"/>
 </a>
 
 
