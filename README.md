@@ -6,7 +6,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/gostfarel garasso sakti muchibbi putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gostfarel garasso sakti muchibbi putra" height="30" width="40" /></a>
 <a href="https://instagram.com/farelmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farelmp" height="30" width="40" /></a>
-<a href="https://medium.com/@farelmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farelmp" height="30" width="40" /></a>
+<a href="https://medium.com/@farelmp" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2023/07/Medium-Emblem.png" 
+         alt="Medium @farelmp" height="30" width="60"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
