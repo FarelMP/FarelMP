@@ -1,4 +1,5 @@
-## Hi there 👋
+## Gostfarel Garasso Sakti Muchibbi Putra
+- Bachelor of Applied Engineering Student, Industrial Electrical Engineering
 
 <!--
 **FarelMP/FarelMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
