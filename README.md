@@ -29,7 +29,7 @@
 </p>
 
 <div style="text-align: center;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelmp&show_icons=true&locale=en&layout=compact" alt="farelmp" width="400" height="400" style="display: inline-block; margin-top: -30px;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelmp&show_icons=true&locale=en&layout=compact" alt="farelmp" width="400" height="400" style="display: inline-block; margin-top: 0px;"/>
 </div>
 
 
