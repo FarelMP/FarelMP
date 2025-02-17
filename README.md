@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farelmp&show_icons=true&locale=en" alt="farelmp" /></p>
 <div >
 <h3>Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
+  <img align="left" src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
 </div>
 
 
