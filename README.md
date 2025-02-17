@@ -28,12 +28,12 @@
 
 </p>
 
-<div style="text-align: center;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelmp&show_icons=true&locale=en&layout=compact" alt="farelmp" width="400" height="400" style="display: inline-block; margin-top: 100px;"/>
-</div>
+<p align="left"><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelmp&show_icons=true&locale=en&layout=compact" alt="farelmp" width="400" height="300"/></a>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farelmp&show_icons=true&locale=en" alt="farelmp" /></a>
+</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farelmp&show_icons=true&locale=en" alt="farelmp" /></p>
+
 <div >
 <h3>Profile Views</h3>
   <img align="left" src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
