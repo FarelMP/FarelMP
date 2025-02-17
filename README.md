@@ -23,16 +23,7 @@
     <img src="https://logotaglines.com/wp-content/uploads/2023/02/Autodesk-Logo-Tagline-Slogan-Founder.jpg" 
          alt="Autodesk" height="40" width="50"/>
 </a>
-
-
-
 </p>
-
-<p align="left"><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelmp&show_icons=true&locale=en&layout=compact" alt="farelmp" width="400" height="300"/></a>
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farelmp&show_icons=true&locale=en" alt="farelmp" /></a>
-</p>
-
-
 
 <div >
 <h3>Profile Views</h3>
