@@ -30,7 +30,8 @@
 <div >
     
  ![](https://komarev.com/ghpvc/?username=FarelMP&style=for-the-badge&color=blue&cachebuster=1&abbreviated=true)
- 
+ [View my WakaTime Dashboard](https://wakatime.com/@FarelMP)
+
 </div>
 
 
