@@ -26,6 +26,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarelMP&layout=donut&theme=outrun)](https://github.com/FarelMP/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarelMP&show_icons=true&theme=outrun)
 
 <div >
     
