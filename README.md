@@ -25,8 +25,7 @@
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarelMP&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarelMP&layout=donut&theme=radical)](https://github.com/FarelMP/github-readme-stats)
 
 <div >
 <h3>Profile Views</h3>
