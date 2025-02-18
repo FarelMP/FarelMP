@@ -29,7 +29,7 @@
 
 <div >
 <h3>Profile Views</h3>
-  <img align="left" src="https://profile-counter.glitch.me/FarelMP/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&style=for-the-badge&color=green)
 </div>
 
 
