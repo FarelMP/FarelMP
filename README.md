@@ -26,7 +26,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarelMP&layout=donut&theme=outrun)](https://github.com/FarelMP/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=FarelMP&show_icons=true&theme=outrun&card_width=400" height="215">
+<img src="https://github-readme-stats.vercel.app/api?username=FarelMP&show_icons=true&theme=outrun&card_width=380" height="215">
 
 <div >
     
