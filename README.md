@@ -29,7 +29,7 @@
 
 <div >
 <h3>Profile Views</h3>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&style=for-the-badge&color=green)
+  ![](https://komarev.com/ghpvc/?username=FarelMP&abbreviated=true&style=for-the-badge&color=green)
 </div>
 
 
