@@ -28,8 +28,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarelMP&layout=donut&theme=outrun)](https://github.com/FarelMP/github-readme-stats)
 
 <div >
-<h3>Profile Views</h3>
+    
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
  ![](https://komarev.com/ghpvc/?username=FarelMP&style=for-the-badge&color=green&cachebuster=1)
+ 
 </div>
 
 
