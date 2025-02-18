@@ -29,8 +29,7 @@
 
 <div >
     
- ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
- ![](https://komarev.com/ghpvc/?username=FarelMP&style=for-the-badge&color=green&cachebuster=1)
+ ![](https://komarev.com/ghpvc/?username=FarelMP&style=for-the-badge&color=blue&cachebuster=1&abbreviated=true)
  
 </div>
 
